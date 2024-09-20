@@ -1,0 +1,23 @@
+1. Install SAMSUNG USB drivers from driver folder
+2. Add SamsungFRPTool.exe into your Antivirus Exclusion List (because EXE is protected and may show as virus, if you don't trust, then DO NOT USE it, simple)
+
+Bypass FRP (MTP) button:
+This will directly open "YouTube" App on SAMSUNG Devices. Select Terms & privacy policy to open Chrome App afterwards
+
+Check "Install S9 Launcher" and click Bypass FRP (MTP) button:
+This will directly open "Galaxy Store" > "S9 Launcher - Theme" App on SAMSUNG Devices
+
+Check "Install Hidden Settings" and click Bypass FRP (MTP) button:
+This will directly open "Galaxy Store" > "Hidden Settings for Android" App on SAMSUNG Devices
+
+Launch Browser button: 
+If you don't see "VIEW" on your device with Bypass FRP (MTP), then click Launch Browser button
+
+Reset FRP (ADB) button:
+This is to Bypass FRP lock from any Android device that has USB Debug Enabled
+
+Disable Driver Signature:
+This is to Disable driver signature on Windows. You must restart PC afterwards
+
+
+
